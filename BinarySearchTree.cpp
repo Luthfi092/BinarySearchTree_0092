@@ -67,7 +67,8 @@ public:
                 // 5a : allocate memory for thr new node
                 ROOT = newNode;
 
-          
+            // 5a : exit
+            return;
         }
      
     
