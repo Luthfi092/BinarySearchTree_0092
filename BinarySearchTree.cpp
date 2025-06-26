@@ -46,7 +46,8 @@ public:
         cout << "Masukkan nilai :";
         cin >> x;
 
-       
+        // step 1 : allocated memory for the new node
+        Node *newNode = new Node();
 
 
        
