@@ -10,7 +10,10 @@ public:
 
     // constructor for node class
     Node()
-
+    {
+        leftchild = nullptr;  // initialize left child to null
+        
+    }
 };
 
 
