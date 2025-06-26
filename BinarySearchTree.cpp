@@ -64,7 +64,8 @@ public:
         // step 5 : if parent is NULL (tree is empty)
         {
             if (parent == nullptr)
-            
+                // 5a : allocate memory for thr new node
+                ROOT = newNode;
 
           
         }
