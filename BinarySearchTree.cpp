@@ -8,7 +8,8 @@ public:
     Node *leftchild;
     Node *rightchild;
 
-    
+    // constructor for node class
+    Node()
 
 };
 
