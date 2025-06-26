@@ -86,6 +86,8 @@ public:
             // 7a : make the right chid of parent point to the new node
             parent->rightchild = newNode;
 
+            // 7b : exit
+            return;
         }
     }
 
